@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/codeearth2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codeearth2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-singh-023055193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amit-singh-023055193/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-singh-023055193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amit-singh-023055193" height="30" width="40" /></a>
 <a href="https://medium.com/@amitsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amitsingh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@amitsingh506142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@amitsingh506142" height="30" width="40" /></a>
 </p>

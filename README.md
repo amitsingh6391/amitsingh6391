@@ -9,7 +9,8 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm aspiring 🔭️ Flutter developer currently learning 🌱 **Django**.
-- 
+- Check My Portfolio [here](https://amitsingh-396e4.web.app/#/)
+- How to reach me **amitsingh506142@gmail.com**
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️

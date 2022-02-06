@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsingh6391" alt="amitsingh6391" /></a> </p>
  -->
-- 🔭 I’m currently working on **Social Care App**
+- 🔭 I’m currently working on **Matrimonial App**
 
 - 🌱 I’m currently learning **JavaScript,Django Rest Framework**
 

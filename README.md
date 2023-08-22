@@ -7,15 +7,13 @@
  -->
 - 🔭 I’m currently working on **Education Finance app**
 
-- 🌱 I’m currently learning **JavaScript,Django Rest Framework**
+- 🌱 I’m currently learning **JavaScript,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://amitsingh6391.github.io](https://amitsingh6391.github.io)
+- 👨‍💻 **Youtube**  [https://www.youtube.com/@FlutterFundamentals101](https://www.youtube.com/@FlutterFundamentals101)
 
 - 💬 Ask me about **Flutter,Dart**
 
 - 📫 How to reach me **amitsingh506142@gmail.com**
-
-- 📄 Know about my experiences [https://amitsingh6391.github.io](https://amitsingh6391.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

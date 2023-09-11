@@ -7,7 +7,7 @@
  -->
 - 🔭 I’m currently working on **Fintech app**
 
-- 🌱 I’m currently learning **JavaScript,Node.js**
+- 🌱 I’m currently learning **JavaScript,Typescript,Node.js,MySql**
 
 - 👨‍💻 **Youtube**  [https://www.youtube.com/@FlutterFundamentals101](https://www.youtube.com/@FlutterFundamentals101)
 

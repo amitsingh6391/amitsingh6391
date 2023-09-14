@@ -11,7 +11,7 @@
 
 - 👨‍💻 **Youtube**  [https://www.youtube.com/@FlutterFundamentals101](https://www.youtube.com/@FlutterFundamentals101)
 
-- 💬 Ask me about **Flutter,Dart**
+- 💬 Ask me about **Flutter,Dart,CleanCode**
 
 - 📫 How to reach me **amitsingh506142@gmail.com**
 
